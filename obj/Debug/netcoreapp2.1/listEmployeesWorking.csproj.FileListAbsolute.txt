@@ -1,0 +1,11 @@
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\obj\Debug\netcoreapp2.1\listEmployeesWorking.csprojAssemblyReference.cache
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\obj\Debug\netcoreapp2.1\listEmployeesWorking.csproj.CoreCompileInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\obj\Debug\netcoreapp2.1\listEmployeesWorking.AssemblyInfoInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\obj\Debug\netcoreapp2.1\listEmployeesWorking.AssemblyInfo.cs
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\bin\Debug\netcoreapp2.1\listEmployeesWorking.deps.json
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\bin\Debug\netcoreapp2.1\listEmployeesWorking.runtimeconfig.json
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\bin\Debug\netcoreapp2.1\listEmployeesWorking.runtimeconfig.dev.json
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\bin\Debug\netcoreapp2.1\listEmployeesWorking.dll
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\bin\Debug\netcoreapp2.1\listEmployeesWorking.pdb
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\obj\Debug\netcoreapp2.1\listEmployeesWorking.dll
+C:\Users\akjef\workspace\csharp\exercises\listEmployeesWorking\obj\Debug\netcoreapp2.1\listEmployeesWorking.pdb
